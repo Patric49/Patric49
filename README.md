@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 Olá, sou Patricio figueredo um iniciante em busca de conhecimento!
 Aceito dicas de estudo: patricio49fsantos@yahoo.com 
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) 
 
 <div style="display: inline_block"><br>
