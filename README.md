@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 ##Aceito dicas de estudo: patricio49fsantos@yahoo.com 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) 
+![Patricio GitHub stats](https://github-readme-stats.vercel.app/api?username=patricio&theme=dark&show_icons=true) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
