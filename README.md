@@ -33,7 +33,7 @@ Olá, sou Patricio figueredo um iniciante em busca de conhecimento!
 Patric49/Patric49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-##Olá, sou Patricio figueredo um iniciante em busca de conhecimento!
+##Olá, sou Patricio figueredo um iniciante em Programação e tecnologia!
 ##Aceito dicas de estudo: patricio49fsantos@yahoo.com 
 
 
