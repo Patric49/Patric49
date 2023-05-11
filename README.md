@@ -4,7 +4,7 @@ Aceito dicas de estudo: patricio49fsantos@yahoo.com
 
 
 ![Estatísticas GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=patric49&show_icons=true&theme=dark)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patric49&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
 <div style="display: inline_block"><br>
