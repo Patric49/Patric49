@@ -1,8 +1,7 @@
 
 Olá, sou Patricio figueredo um iniciante em Programação e tecnologia! 👋 <br>  
 Aceito dicas de estudo: patricio49fsantos@yahoo.com 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats.git">  
+<div> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patric49&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patric49&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
 
