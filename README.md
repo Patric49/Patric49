@@ -2,7 +2,6 @@
 Olá, sou Patricio figueredo um iniciante em Programação e tecnologia! 👋 <br>  
 Aceito dicas de estudo: patricio49fsantos@yahoo.com 
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 ![Estatísticas GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=patric49&show_icons=true&theme=dark)
 
