@@ -1,5 +1,5 @@
 
-Olá, sou Patricio figueredo um iniciante em Programação e tecnologia! 👋 <br> 
+Olá, sou Patricio figueredo um iniciante em Programação e tecnologia! 👋 <br>  
 Aceito dicas de estudo: patricio49fsantos@yahoo.com 
 
 
