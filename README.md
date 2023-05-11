@@ -2,7 +2,7 @@
 Olá, sou Patricio figueredo um iniciante em Programação e tecnologia! 👋 <br>  
 Aceito dicas de estudo: patricio49fsantos@yahoo.com 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patric49&theme=dark&show_icons=true)
  
 
 <div style="display: inline_block"><br>
