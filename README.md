@@ -1,6 +1,9 @@
 
 Olá, sou Patricio figueredo um iniciante em Programação e tecnologia! 👋 <br>  
-Aceito dicas de estudo: (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+Aceito dicas de estudo:
+<div>
+<a href="patricio.figueredo04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
 ![Estatísticas GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=patric49&show_icons=true&theme=dark)
